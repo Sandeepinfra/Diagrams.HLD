@@ -1,0 +1,72 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="pPSSng5SLu1pkMB0yFVj">
+    <mxGraphModel dx="1016" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3n3nYSpC3xqyza4RW_1N-4" edge="1" parent="1" source="3n3nYSpC3xqyza4RW_1N-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3n3nYSpC3xqyza4RW_1N-1" parent="1" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fontSize=17;" value="DECLARE" vertex="1">
+          <mxGeometry height="80" width="120" x="80" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="3n3nYSpC3xqyza4RW_1N-6" edge="1" parent="1" source="3n3nYSpC3xqyza4RW_1N-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3n3nYSpC3xqyza4RW_1N-2" parent="1" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fontSize=20;" value="ASSIGN" vertex="1">
+          <mxGeometry height="80" width="120" x="560" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="3n3nYSpC3xqyza4RW_1N-5" edge="1" parent="1" source="3n3nYSpC3xqyza4RW_1N-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3n3nYSpC3xqyza4RW_1N-3" parent="1" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fontSize=20;" value="USE" vertex="1">
+          <mxGeometry height="80" width="120" x="320" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="3n3nYSpC3xqyza4RW_1N-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="variables.tf" vertex="1">
+          <mxGeometry height="50" width="110" x="85" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="3n3nYSpC3xqyza4RW_1N-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="terraform.tfvars" vertex="1">
+          <mxGeometry height="30" width="60" x="590" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="3n3nYSpC3xqyza4RW_1N-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="main.tf" vertex="1">
+          <mxGeometry height="30" width="60" x="350" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="XPqAtgYUDLjiFMmt6ylM-2" edge="1" parent="1" source="XPqAtgYUDLjiFMmt6ylM-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XPqAtgYUDLjiFMmt6ylM-1" parent="1" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;What is Terraform?&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="440" x="150" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="XPqAtgYUDLjiFMmt6ylM-14" parent="1" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;Terraform is an IAC (Infrastructure as a code)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="660" x="95" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="XPqAtgYUDLjiFMmt6ylM-18" parent="1" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;Its an Open Source Tool&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="660" x="95" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="XPqAtgYUDLjiFMmt6ylM-19" parent="1" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;its developed by hashicorp but now owned by IBM&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="660" x="95" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="XPqAtgYUDLjiFMmt6ylM-20" parent="1" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;it is written in Go language&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="660" x="95" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="XPqAtgYUDLjiFMmt6ylM-21" parent="1" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;it is used to manage and provision cloud infra. through code.&amp;nbsp;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="660" x="95" y="980" as="geometry" />
+        </mxCell>
+        <mxCell id="XPqAtgYUDLjiFMmt6ylM-24" parent="1" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;Why we use Terraform?&amp;nbsp;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="490" x="180" y="1200" as="geometry" />
+        </mxCell>
+        <mxCell id="XPqAtgYUDLjiFMmt6ylM-25" parent="1" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;state management&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;multi-cloud support&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;modular approach&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;reusablibity&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;consistency&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="170" width="635" x="95" y="1280" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
