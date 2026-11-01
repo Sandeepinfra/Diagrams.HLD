@@ -5,37 +5,67 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="vSItgfR74Rjw22zZLCBy-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontSize=19;gradientDirection=north;fontColor=#FFFFFF;fontStyle=1" value="&lt;span style=&quot;font-size: 21px;&quot;&gt;TOPICS TO COVER&amp;nbsp;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="40" width="620" x="100" y="80" as="geometry" />
+          <mxGeometry height="40" width="620" x="50" y="80" as="geometry" />
         </mxCell>
         <mxCell id="tidlzOHgCASG4qvDnGXG-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;gradientDirection=north;align=center;" value="&amp;nbsp;Authentication methods of Pipelines" vertex="1">
-          <mxGeometry height="40" width="620" x="100" y="120" as="geometry" />
+          <mxGeometry height="40" width="620" x="50" y="120" as="geometry" />
         </mxCell>
         <mxCell id="tidlzOHgCASG4qvDnGXG-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;gradientDirection=north;align=center;" value="Fetching of credentials in Pipelines from KeyVault and Storage Account" vertex="1">
-          <mxGeometry height="40" width="620" x="100" y="160" as="geometry" />
+          <mxGeometry height="40" width="620" x="50" y="160" as="geometry" />
         </mxCell>
         <mxCell id="tidlzOHgCASG4qvDnGXG-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;gradientDirection=north;align=center;" value="Pipeline Troubleshooting Approach and Role assignment in Azure for Pipeline" vertex="1">
-          <mxGeometry height="40" width="620" x="100" y="200" as="geometry" />
+          <mxGeometry height="40" width="620" x="50" y="200" as="geometry" />
         </mxCell>
         <mxCell id="tidlzOHgCASG4qvDnGXG-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;gradientDirection=north;align=center;" value="Service Endpoint and Private Endpoint" vertex="1">
-          <mxGeometry height="40" width="620" x="100" y="240" as="geometry" />
+          <mxGeometry height="40" width="620" x="50" y="240" as="geometry" />
         </mxCell>
         <mxCell id="tidlzOHgCASG4qvDnGXG-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;gradientDirection=north;align=center;" value="Azure Policy" vertex="1">
-          <mxGeometry height="40" width="620" x="100" y="280" as="geometry" />
+          <mxGeometry height="40" width="620" x="50" y="280" as="geometry" />
         </mxCell>
         <mxCell id="tidlzOHgCASG4qvDnGXG-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;gradientDirection=north;align=center;" value="Certificates - SSL and TSL" vertex="1">
-          <mxGeometry height="40" width="620" x="100" y="320" as="geometry" />
+          <mxGeometry height="40" width="620" x="50" y="320" as="geometry" />
         </mxCell>
         <mxCell id="tidlzOHgCASG4qvDnGXG-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;gradientDirection=north;align=center;" value="Appliaction and VM Troubleshooting" vertex="1">
-          <mxGeometry height="40" width="620" x="100" y="360" as="geometry" />
+          <mxGeometry height="40" width="620" x="50" y="360" as="geometry" />
         </mxCell>
         <mxCell id="tidlzOHgCASG4qvDnGXG-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=18;gradientDirection=north;align=center;" value="Best Practices of Azure, Terraform ADO Pipelines and GitHub" vertex="1">
-          <mxGeometry height="40" width="620" x="100" y="440" as="geometry" />
+          <mxGeometry height="40" width="620" x="50" y="440" as="geometry" />
         </mxCell>
         <mxCell id="tidlzOHgCASG4qvDnGXG-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=18;gradientDirection=north;align=center;" value="GIT - Pull, Fetch, Rebase etc." vertex="1">
-          <mxGeometry height="40" width="620" x="100" y="480" as="geometry" />
+          <mxGeometry height="40" width="620" x="50" y="480" as="geometry" />
         </mxCell>
         <mxCell id="tidlzOHgCASG4qvDnGXG-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;gradientDirection=north;align=center;" value="How we configure Backup and DR" vertex="1">
-          <mxGeometry height="40" width="620" x="100" y="400" as="geometry" />
+          <mxGeometry height="40" width="620" x="50" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="sX4bWMr4ccMswc2avmlF-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;gradientDirection=north;align=center;" value="2 Nov" vertex="1">
+          <mxGeometry height="40" width="130" x="670" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="sX4bWMr4ccMswc2avmlF-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;gradientDirection=north;align=center;" value="2 Nov" vertex="1">
+          <mxGeometry height="40" width="130" x="670" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="sX4bWMr4ccMswc2avmlF-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;gradientDirection=north;align=center;" value="2 Nov" vertex="1">
+          <mxGeometry height="40" width="130" x="670" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="sX4bWMr4ccMswc2avmlF-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;gradientDirection=north;align=center;" value="2 Nov" vertex="1">
+          <mxGeometry height="40" width="130" x="670" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="sX4bWMr4ccMswc2avmlF-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;gradientDirection=north;align=center;" value="2 Nov" vertex="1">
+          <mxGeometry height="40" width="130" x="670" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="sX4bWMr4ccMswc2avmlF-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;gradientDirection=north;align=center;" value="2 Nov" vertex="1">
+          <mxGeometry height="40" width="130" x="670" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="sX4bWMr4ccMswc2avmlF-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;gradientDirection=north;align=center;" value="2 Nov" vertex="1">
+          <mxGeometry height="40" width="130" x="670" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="sX4bWMr4ccMswc2avmlF-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;gradientDirection=north;align=center;" value="2 Nov" vertex="1">
+          <mxGeometry height="40" width="130" x="670" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="sX4bWMr4ccMswc2avmlF-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;gradientDirection=north;align=center;" value="2 Nov" vertex="1">
+          <mxGeometry height="40" width="130" x="670" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="sX4bWMr4ccMswc2avmlF-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;gradientDirection=north;align=center;" value="2 Nov" vertex="1">
+          <mxGeometry height="40" width="130" x="670" y="480" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
