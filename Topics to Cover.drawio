@@ -34,7 +34,7 @@
         <mxCell id="tidlzOHgCASG4qvDnGXG-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=18;gradientDirection=north;align=center;" value="GIT - Pull, Fetch, Rebase etc." vertex="1">
           <mxGeometry height="40" width="620" x="100" y="480" as="geometry" />
         </mxCell>
-        <mxCell id="tidlzOHgCASG4qvDnGXG-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;gradientDirection=north;align=center;" value="How we create Backup and DR" vertex="1">
+        <mxCell id="tidlzOHgCASG4qvDnGXG-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;gradientDirection=north;align=center;" value="How we configure Backup and DR" vertex="1">
           <mxGeometry height="40" width="620" x="100" y="400" as="geometry" />
         </mxCell>
       </root>
